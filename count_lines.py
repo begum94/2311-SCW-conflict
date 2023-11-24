@@ -2,6 +2,7 @@ import sys
 """
 This script counts the lines in stardard input.
 Input: text from the system
+Output: something
 
 """
 
